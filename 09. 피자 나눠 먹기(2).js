@@ -3,3 +3,12 @@ function solution(n) {
   let gcd = max(n, 6);
   return n / gcd;
 }
+
+/* n명과 6조각의 최대공약수를 구한 후 n명을 최대공약수로 나눠주었다. */
+
+const obj = {
+  name: "sarah",
+  sayHi() {
+    console.log("Hi! " + this.name);
+  },
+};
