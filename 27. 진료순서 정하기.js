@@ -4,5 +4,5 @@ function solution(emergency) {
 }
 
 /*
-emergency 배열을 내림차순으로 sort한 후 배열을 index+1로 대체한다.
+emergency 배열을 내림차순으로 sort한 후 배열을 index+1 값으로 대체한다.
 */
