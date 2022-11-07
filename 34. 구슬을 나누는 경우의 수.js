@@ -8,5 +8,5 @@ function solution(balls, share) {
 }
 
 /*
-factorial 연산을 재귀함수로 구현해주었다..!
+factorial 연산을 재귀함수로 구현해주었다.
 */
