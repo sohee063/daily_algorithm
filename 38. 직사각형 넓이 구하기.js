@@ -9,6 +9,6 @@ function solution(dots) {
 }
 
 /*
-x 좌표 중 가장 큰 값에서 가장 작은 x 값을 뺀 값을 width로,
+x 좌표 중 가장 큰 값에서 가장 작은 x값을 뺀 값을 width로,
 y 좌표 중 가장 큰 값에서 가장 작은 y값을 뺀 값을 height로 할당 후 두 값을 곱해주었다.
 */
